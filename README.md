@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Full Stack Web Developer with a passion to contribute to the Technology industry. 
+
 <!--
 **jvillalp/jvillalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
