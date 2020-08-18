@@ -12,14 +12,14 @@
 
 ```javascript
 const Juana = {
-  pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Python,],
-  tools: [React, Redux, Node, Styled-Components],
-  architecture: [Single page applications],
-  techCommunities: {
+    pronouns: "she" | "her",
+    code: ["Javascript", "HTML", "CSS", "Python"],
+    tools: ["React", "Redux", "Node", "Styled-Components"],
+    architectures: ["Single page applications"],
+    techCommunities: {
                         member: "Latinas in Tech",
                       },
- challenge: "I am doing the AlgoExpert code challenges"
+    challenge: "I am doing the AlgoExpert code challenges"
 }
 ```
 
