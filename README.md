@@ -17,9 +17,9 @@ const Juana = {
     tools: ["React", "Redux", "Node", "Styled-Components"],
     architectures: ["Single page applications"],
     techCommunities: {
-                        member: "Latinas in Tech",
+                        member: "Latinas in Tech", "Tech ladies"
                       },
-    challenge: "I am doing the AlgoExpert code challenges"
+    challenge: "I attempting all the AlgoExpert code challenges"
 }
 ```
 
