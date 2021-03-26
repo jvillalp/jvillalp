@@ -19,7 +19,7 @@ const Juana = {
     techCommunities: {
                         member: "Latinas in Tech", "Tech ladies"
                       },
-    challenge: "I am completing all the AlgoExpert code challenges"
+    challenge: "I am completing the AlgoExpert code challenge"
 }
 ```
 
