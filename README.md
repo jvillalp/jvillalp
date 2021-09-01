@@ -11,9 +11,9 @@
 ```javascript
 const Juana = {
     pronouns: [ "she" , "her" ],
-    code: [ "Javascript", "HTML", "CSS", "Python" ],
-    tools: [ "React", "Redux", "Node", "Styled-Components" ],
-    techCommunities: [ "Latinas in Tech", "Tech ladies" ]
+    code: [ "Javascript", "Typescript", "Python", "Ruby" ],
+    tools: [ "React", "Redux", "Node", "Styled-Components", "Rails" ],
+    techCommunities: [ "Latinas in Tech", "Tech ladies", "Square" ]
 }
 ```
 
